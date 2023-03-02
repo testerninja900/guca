@@ -1,1 +1,4 @@
 # fluffy-guacamole
+
+AWS_ACCESS_KEY = 'AKIAQWESQRFOQ4KOQAPK'
+AWS_SECRET_KEY = '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'
